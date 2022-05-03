@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Chu</h1>
-<h3 align="center">A passionate frontend developer from Southern California</h3>
+<h3 align="center">A passionate full stack developer in training</h3>
 
 - 📛 Name: Richard Chu
 - 🖥 Student of Coding Dojo's w/ full stack developer aspirations.
